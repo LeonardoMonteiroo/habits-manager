@@ -1,0 +1,4 @@
+[submodule "NLW-Setup-Mobile"]
+	path = NLW-Setup-Mobile
+	url = https://github.com/LeonardoMonteiroo/NLW-Setup-Mobile
+	branch = master
